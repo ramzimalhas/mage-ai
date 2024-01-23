@@ -1,0 +1,1716 @@
+repo_name: ramzimalhas/mage-ai
+report_id: 53b7b2f0829499f3d9b34d55d0ec4683
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-23T06:58:15+00:00'
+requested_by: wangxiaoyou1993
+provider: github
+branch: master
+detected_tools_count: 118
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2022-11-10 22:53:34.000000000 Z
+- name: Mako
+  description: Template library written in Python
+  website_url: https://github.com/zzzeek/mako
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3583/default_43e3ee00dcc48a40f6fcba33551e4f5a99a10537.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: R Language
+  description: A language and environment for statistical computing and graphics
+  website_url: http://www.r-project.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1213/r-logo.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: DANGerous
+  last_updated_on: 2022-06-17 23:48:03.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: YAML
+  description: A straightforward machine parsable data serialization format designed
+    for human readability and interaction
+  website_url: http://www.yaml.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1744/yaml.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/package.json
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: David Yang
+  last_updated_on: 2022-05-17 16:15:03.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 12.1.6
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: David Yang
+  last_updated_on: 2022-05-17 16:15:03.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/package.json
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: David Yang
+  last_updated_on: 2022-05-17 16:15:03.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-03-02 01:11:17.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: Storybook
+  description: Build bulletproof UI components faster
+  website_url: https://storybook.js.org/
+  version: 6.5.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/9240/sOct-Txm_400x400.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: nathaniel-mage
+  last_updated_on: 2022-05-21 01:01:44.000000000 Z
+- name: Azure Storage
+  description: Reliable, economical cloud storage for data big and small
+  website_url: http://azure.microsoft.com/en-us/services/storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-01-12 09:05:42.000000000 Z
+- name: Couchbase
+  description: Document-Oriented NoSQL Database
+  website_url: http://www.couchbase.com/
+  version: 4.1.1
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1089/KMIbGY8C.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-02-09 23:33:45.000000000 Z
+- name: Google Cloud Storage
+  description: Durable and highly available object storage service
+  website_url: https://cloud.google.com/products/cloud-storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-31 04:38:24.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-11-03 19:59:35.000000000 Z
+- name: MSSQL
+  description: It is an enterprise-level database system that is very popular for
+    Windows web servers
+  website_url: https://www.microsoft.com/en-us/sql-server
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/2445/ZKsJsucq_400x400.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-10-11 21:16:18.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/mage_integrations/sources/mongodb/__init__.py
+  detection_source: mage_integrations/mage_integrations/sources/mongodb/__init__.py
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-11 00:43:39.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-10-11 21:16:18.000000000 Z
+- name: SQLAlchemy
+  description: The Python SQL Toolkit and Object Relational Mapper
+  website_url: http://www.sqlalchemy.org/
+  version: 1.4.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-01-27 01:18:35.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.12.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/.babelrc
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-05-31 09:32:18.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: David Yang
+  last_updated_on: 2022-06-02 17:30:22.000000000 Z
+- name: Datadog
+  description: Unify logs, metrics, and traces from across your distributed infrastructure.
+  website_url: https://www.datadoghq.com/lpg/?utm_source=Advertisement&utm_medium=StackShare&utm_campaign=StackShare-Other
+  open_source: false
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Performance Monitoring
+  image_url: https://img.stackshare.io/service/669/default_34b3b9b42d07c33ac47ecdff75dd6f4f82aa70ee.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-02-23 21:39:33.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/package.json
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: David Yang
+  last_updated_on: 2022-05-17 16:15:03.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/.github/workflows/build_and_test.yml
+  detection_source: ".github/workflows/build_and_test.yml"
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-02-06 19:56:35.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  version: 25.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2022-12-30 00:19:52.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2022-05-24 03:29:56.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/yarn.lock
+  last_updated_by: David Yang
+  last_updated_on: 2022-05-17 16:15:03.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/package.json
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: David Yang
+  last_updated_on: 2022-05-17 16:15:03.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/docker-compose.yml
+  detection_source: docker-compose.yml
+  last_updated_by: DANGerous
+  last_updated_on: 2022-06-17 23:48:03.000000000 Z
+- name: IPython
+  description: A command shell for interactive computing in multiple programming languages
+  website_url: http://ipython.org/index.html
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shells
+  image_url: https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-02-28 22:16:06.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.21.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2022-05-24 03:29:56.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-05-20 16:19:21.000000000 Z
+- name: Faker
+  description: Faker is a Python package that generates fake data for you
+  package_url: https://pypi.org/project/Faker
+  version: 4.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20068/default_271333e82c8d92d6ae0f197b10a9c1f791d7b37f.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2022-05-24 03:29:56.000000000 Z
+- name: GitPython
+  description: Python Git Library
+  package_url: https://pypi.org/project/GitPython
+  version: 3.1.31
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19867/default_bd86f80ade48cfe191d5781a2efa0e66fa22163a.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-02-28 22:16:06.000000000 Z
+  vulnerabilities:
+  - name: GitPython vulnerable to remote code execution due to insufficient sanitization
+      of input arguments
+    cve_id: CVE-2023-40267
+    cve_url: https://github.com/advisories/GHSA-pr76-5cm5-w9cj
+    detected_date: Aug 12
+    severity: critical
+    first_patched: 3.1.32
+  - name: Untrusted search path under some conditions on Windows allows arbitrary
+      code execution
+    cve_id: CVE-2024-22190
+    cve_url: https://github.com/advisories/GHSA-2mqj-m65w-jghx
+    detected_date: Jan 11
+    severity: high
+    first_patched: 3.1.41
+  - name: Blind local file inclusion
+    cve_id: CVE-2023-41040
+    cve_url: https://github.com/advisories/GHSA-cwvm-v4w8-q58c
+    detected_date: Sep 7
+    severity: moderate
+    first_patched: 3.1.37
+- name: PyJWT
+  description: JSON Web Token implementation in Python
+  package_url: https://pypi.org/project/PyJWT
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19883/default_3863c7bb51d307217c188e059f67ca417c51efe3.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-02-21 22:42:39.000000000 Z
+- name: aiofiles
+  description: File support for asyncio
+  package_url: https://pypi.org/project/aiofiles
+  version: 22.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20183/default_3d320a0aa731f16ceb0e7b6999ca7f7cd784aee2.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-03 01:26:14.000000000 Z
+- name: alembic
+  description: A database migration tool for SQLAlchemy
+  package_url: https://pypi.org/project/alembic
+  version: 1.7.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19961/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-12-24 19:55:20.000000000 Z
+- name: attrs
+  description: Classes Without Boilerplate
+  package_url: https://pypi.org/project/attrs
+  version: 17.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19857/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-19 02:25:33.000000000 Z
+- name: azure-eventhub
+  description: Microsoft Azure Event Hubs Client Library for Python
+  package_url: https://pypi.org/project/azure-eventhub
+  version: 5.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-11-03 19:59:35.000000000 Z
+- name: azure-storage-blob
+  description: Microsoft Azure Blob Storage Client Library for Python
+  package_url: https://pypi.org/project/azure-storage-blob
+  version: 12.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20246/default_79c7a01488eebdf30ca22b7316d9f77bbe7fad8b.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-01-12 09:05:42.000000000 Z
+- name: backoff
+  description: Function decoration for backoff and retry
+  package_url: https://pypi.org/project/backoff
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19988/default_aa331bbc48e2faa54aa26e08880b772595f833b8.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-02-10 07:28:58.000000000 Z
+- name: bcrypt
+  description: Modern password hashing for your software and your servers
+  package_url: https://pypi.org/project/bcrypt
+  version: 4.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20031/default_242158225818ea25f0ab9031a46e17f8ff8246cb.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-02-15 23:32:50.000000000 Z
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/project/boto3
+  version: 1.26.60
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-31 04:38:24.000000000 Z
+- name: botocore
+  description: Low-level, data-driven core of boto 3
+  package_url: https://pypi.org/project/botocore
+  version: 1.29.60
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19884/default_b8be3f20d4af87021ae3618d5c50b72c985ea31f.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-31 04:38:24.000000000 Z
+- name: croniter
+  description: Croniter provides iteration for datetime object with cron like format
+  package_url: https://pypi.org/project/croniter
+  version: 1.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20141/default_e3ea003987b13e5c9b8c9000c748b25a9c0d9ecd.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2022-09-08 22:52:41.000000000 Z
+- name: cryptography
+  description: Cryptography is a package which provides cryptographic recipes and
+    primitives to Python developers
+  package_url: https://pypi.org/project/cryptography
+  version: 36.0.2
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19850/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-02-15 23:32:50.000000000 Z
+  vulnerabilities:
+  - name: Vulnerable OpenSSL included in cryptography wheels
+    cve_id: CVE-2023-0286
+    cve_url: https://github.com/advisories/GHSA-x4qr-2fvf-3mr5
+    detected_date: Feb 9
+    severity: high
+    first_patched: 39.0.1
+  - name: Cipher.update_into can corrupt memory if passed an immutable python object
+      as the outbuf
+    cve_id: CVE-2023-23931
+    cve_url: https://github.com/advisories/GHSA-w7pp-m8wf-vj6r
+    detected_date: Feb 8
+    severity: moderate
+    first_patched: 39.0.1
+  - name: cryptography vulnerable to NULL-dereference when loading PKCS7 certificates
+    cve_id: CVE-2023-49083
+    cve_url: https://github.com/advisories/GHSA-jfhm-5ghh-2f97
+    detected_date: Nov 29
+    severity: moderate
+    first_patched: 41.0.6
+  - name: pyca/cryptography's wheels include vulnerable OpenSSL
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-jm77-qphf-c4w8
+    detected_date: Aug 2
+    severity: low
+    first_patched: 41.0.3
+  - name: Vulnerable OpenSSL included in cryptography wheels
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-v8gr-m533-ghj9
+    detected_date: Sep 22
+    severity: low
+    first_patched: 41.0.4
+  - name: Vulnerable OpenSSL included in cryptography wheels
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-5cpq-8wj7-hf2v
+    detected_date: Jun 3
+    severity: low
+    first_patched: 41.0.0
+- name: dask
+  description: Parallel PyData with Task Scheduling
+  package_url: https://pypi.org/project/dask
+  version: 2022.2.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20131/default_3146a05cf4dd77d8b50cff25709373c081ac5053.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-02-22 10:21:43.000000000 Z
+- name: dbt-core
+  description: Dbt
+  package_url: https://pypi.org/project/dbt-core
+  version: 1.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-03-08 19:32:24.000000000 Z
+- name: freezegun
+  description: Let your Python tests travel through time
+  package_url: https://pypi.org/project/freezegun
+  version: 1.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20595/default_9322f13ef9811bfc120f244dc670f7e4fb5b8aa3.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-03 01:36:57.000000000 Z
+- name: google-api-python-client
+  description: Google API Client Library for Python
+  package_url: https://pypi.org/project/google-api-python-client
+  version: 2.70.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19897/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-31 04:38:24.000000000 Z
+- name: google-cloud-bigquery
+  description: Google BigQuery API client library
+  package_url: https://pypi.org/project/google-cloud-bigquery
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20122/default_480d32900476f532eb2077c5e672b5cb60c86e48.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-31 04:38:24.000000000 Z
+- name: google-cloud-storage
+  description: Google Cloud Storage API client library
+  package_url: https://pypi.org/project/google-cloud-storage
+  version: 2.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19996/default_1ae269f6aa26d7008f18ed620309f6ae89bbfa12.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-31 04:38:24.000000000 Z
+- name: httpx
+  description: The next generation HTTP client
+  package_url: https://pypi.org/project/httpx
+  version: 0.23.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20315/default_5f4e928dbcb1c4db4050881fc2e0229785fc931c.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-25 23:51:49.000000000 Z
+- name: inflection
+  description: A port of Ruby on Rails inflector to Python
+  package_url: https://pypi.org/project/inflection
+  version: 0.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19983/default_ccb381b493daf0d966e015380e1894fdbc637ad3.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-03-10 01:04:19.000000000 Z
+- name: ipykernel
+  description: IPython Kernel for Jupyter
+  package_url: https://pypi.org/project/ipykernel
+  version: 6.15.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20282/default_23dd4b159eaa2c5b085470b39bf396fcc6cf2c38.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2022-12-30 00:19:52.000000000 Z
+- name: itsdangerous
+  description: Various helpers to pass data to untrusted environments and back
+  package_url: https://pypi.org/project/itsdangerous
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19989/default_b1f1fc9c4c59a78443018e01395203ba8c61dcde.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2022-07-15 23:15:49.000000000 Z
+- name: joblib
+  description: 'Lightweight pipelining: using Python functions as pipeline jobs'
+  package_url: https://pypi.org/project/joblib
+  version: 1.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20033/default_5a21cf44b42c3ef13f57dcd42ae753240ea7e808.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2022-06-07 21:02:01.000000000 Z
+  vulnerabilities:
+  - name: joblib vulnerable to arbitrary code execution
+    cve_id: CVE-2022-21797
+    cve_url: https://github.com/advisories/GHSA-6hrg-qmvc-2xh8
+    detected_date: Sep 30
+    severity: critical
+    first_patched: 1.2.0
+- name: jupyter-server
+  description: The Jupyter Server
+  package_url: https://pypi.org/project/jupyter-server
+  version: 1.23.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-03-08 19:32:24.000000000 Z
+  vulnerabilities:
+  - name: jupyter-server errors include tracebacks with path information
+    cve_id: CVE-2023-49080
+    cve_url: https://github.com/advisories/GHSA-h56g-gq9v-vc8r
+    detected_date: Dec 7
+    severity: moderate
+    first_patched: 2.11.2
+  - name: " Open Redirect Vulnerability in jupyter-server"
+    cve_id: CVE-2023-39968
+    cve_url: https://github.com/advisories/GHSA-r726-vmfq-j9j3
+    detected_date: Aug 30
+    severity: moderate
+    first_patched: 2.7.2
+  - name: cross-site inclusion (XSSI) of files in jupyter-server
+    cve_id: CVE-2023-40170
+    cve_url: https://github.com/advisories/GHSA-64x5-55rw-9974
+    detected_date: Aug 30
+    severity: moderate
+    first_patched: 2.7.2
+- name: jupyter-server-proxy
+  description: Jupyter server extension to supervise and proxy web services
+  package_url: https://pypi.org/project/jupyter-server-proxy
+  version: 3.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-03-08 19:32:24.000000000 Z
+- name: jupyter_client
+  description: Jupyter protocol implementation and client libraries
+  package_url: https://pypi.org/project/jupyter_client
+  version: 7.3.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-03 18:44:56.000000000 Z
+- name: kafka-python
+  description: Pure Python client for Apache Kafka
+  package_url: https://pypi.org/project/kafka-python
+  version: 2.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20047/default_b0b684477aefb2da4c92a4bafd91d26e16511cd1.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-02-28 22:16:06.000000000 Z
+- name: ldap3
+  description: A strictly RFC 4510 conforming LDAP V3 pure Python client library
+  package_url: https://pypi.org/project/ldap3
+  version: 2.9.1
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20218/default_d4dd0466552a9776ca8535b869e22a3362790c94.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: dhia-gharsallaoui
+  last_updated_on: 2023-03-13 18:10:23.000000000 Z
+- name: mysql-connector-python
+  description: MySQL driver written in Python
+  package_url: https://pypi.org/project/mysql-connector-python
+  version: 8.0.31
+  license: GPL-2.0-with-font-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20794/default_9ca241da01759150a631f1a4419765b91249245f.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-12-18 07:20:45.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  version: 1.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-02-15 22:46:19.000000000 Z
+- name: pendulum
+  description: Python datetimes made easy
+  package_url: https://pypi.org/project/pendulum
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20069/default_bb49fb0188726b8922387d8bb6e9b2cd0c3c0ea9.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-19 02:25:33.000000000 Z
+- name: pika
+  description: Pika Python AMQP Client Library
+  package_url: https://pypi.org/project/pika
+  version: 1.3.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19997/default_1ae269f6aa26d7008f18ed620309f6ae89bbfa12.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Luishfs
+  last_updated_on: 2023-02-09 06:04:51.000000000 Z
+- name: psycopg2
+  description: Psycopg2 - Python-PostgreSQL Database Adapter
+  package_url: https://pypi.org/project/psycopg2
+  version: 2.9.3
+  license: BSD-3-Clause-Attribution
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20416/default_64aa60b33468d1d28611966765867676f6303b64.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-03-08 22:25:43.000000000 Z
+- name: psycopg2-binary
+  description: Psycopg2 - Python-PostgreSQL Database Adapter
+  package_url: https://pypi.org/project/psycopg2-binary
+  version: 2.9.3
+  license: BSD-3-Clause-Attribution
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-03-08 22:25:43.000000000 Z
+- name: pyarrow
+  description: Python library for Apache Arrow
+  package_url: https://pypi.org/project/pyarrow
+  version: 10.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20366/default_20f72d65682b6cad9939bcf162d0ef14fced900c.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-12-13 19:06:28.000000000 Z
+  vulnerabilities:
+  - name: 'PyArrow: Arbitrary code execution when loading a malicious data file'
+    cve_id: CVE-2023-47248
+    cve_url: https://github.com/advisories/GHSA-5wvp-7f3h-6wmm
+    detected_date: Nov 10
+    severity: critical
+    first_patched: 14.0.1
+- name: pymongo
+  description: Python driver for MongoDB &lt;http://www.mongodb.org&gt;
+  package_url: https://pypi.org/project/pymongo
+  version: 4.3.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19865/default_7975a21f3bf03129dc3bc4168cf7cb7ee2cc14cc.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-11 00:43:39.000000000 Z
+- name: pyodbc
+  description: DB API Module for ODBC
+  package_url: https://pypi.org/project/pyodbc
+  version: 4.0.35
+  license: MIT-0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20110/default_534fc53c55ef7fbc50263daa8ea6618be3c2b37d.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2023-03-08 19:32:24.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.8.2
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-12-18 07:20:45.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  version: '2022.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2022-05-25 05:43:45.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.20.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/mage_integrations/sources/salesforce/client/setup.py
+  detection_source: mage_integrations/mage_integrations/sources/salesforce/client/setup.py
+  last_updated_by: DANGerous
+  last_updated_on: 2022-10-18 20:36:46.000000000 Z
+  vulnerabilities:
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: scikit-learn
+  description: A set of python modules for machine learning and data mining
+  package_url: https://pypi.org/project/scikit-learn
+  version: '1.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: David Yang
+  last_updated_on: 2022-06-07 21:02:01.000000000 Z
+- name: simplejson
+  description: Simple, fast, extensible JSON encoder/decoder for Python
+  package_url: https://pypi.org/project/simplejson
+  version: 3.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19859/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-10-13 04:38:10.000000000 Z
+- name: singer-python
+  description: Singer.io utility library
+  package_url: https://pypi.org/project/singer-python
+  version: 5.10.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20008/default_4670d85497359027401318e86e454c22065d231e.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/mage_integrations/sources/salesforce/client/setup.py
+  detection_source: mage_integrations/mage_integrations/sources/salesforce/client/setup.py
+  last_updated_by: DANGerous
+  last_updated_on: 2022-10-18 20:36:46.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2022-05-24 03:29:56.000000000 Z
+- name: snowflake-connector-python
+  description: Snowflake Connector for Python
+  package_url: https://pypi.org/project/snowflake-connector-python
+  version: 2.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20735/default_a1230263c1022e7a5f1ab77d48a7703cf2c2878e.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2023-02-06 04:57:47.000000000 Z
+  vulnerabilities:
+  - name: Snowflake Python Connector vulnerable to Command Injection
+    cve_id: CVE-2023-34233
+    cve_url: https://github.com/advisories/GHSA-5w5m-pfw9-c8fp
+    detected_date: Jun 10
+    severity: high
+    first_patched: 3.0.2
+- name: stripe
+  description: Python bindings for the Stripe API
+  package_url: https://pypi.org/project/stripe
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20448/default_3594ac2294a6aa0f41792d27e3f019e66d1684f7.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-10-18 01:07:33.000000000 Z
+- name: tables
+  description: Hierarchical datasets for Python
+  package_url: https://pypi.org/project/tables
+  version: 3.7.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: wangxiaoyou1993
+  last_updated_on: 2022-08-16 22:52:58.000000000 Z
+- name: tornado
+  description: Tornado is a Python web framework and asynchronous networking library
+  package_url: https://pypi.org/project/tornado
+  version: '6.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19860/default_4a8a8fdc10130068bf295812b98e9b72fb42fe70.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2022-06-28 02:06:20.000000000 Z
+  vulnerabilities:
+  - name: Tornado vulnerable to HTTP request smuggling via improper parsing of `Content-Length`
+      fields and chunk lengths
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-qppv-j76h-2rpx
+    detected_date: Aug 15
+    severity: moderate
+    first_patched: 6.3.3
+  - name: Open redirect in Tornado
+    cve_id: CVE-2023-28370
+    cve_url: https://github.com/advisories/GHSA-hj3f-6gcp-jg8j
+    detected_date: May 26
+    severity: moderate
+    first_patched: 6.3.2
+- name: tzlocal
+  description: Tzinfo object for the local timezone
+  package_url: https://pypi.org/project/tzlocal
+  version: '4.2'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19922/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-11 00:43:39.000000000 Z
+- name: xmltodict
+  description: Makes working with XML feel like you are working with JSON
+  package_url: https://pypi.org/project/xmltodict
+  version: 0.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19902/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/mage_integrations/sources/salesforce/client/setup.py
+  detection_source: mage_integrations/mage_integrations/sources/salesforce/client/setup.py
+  last_updated_by: DANGerous
+  last_updated_on: 2022-10-18 20:36:46.000000000 Z
+- name: zenpy
+  description: Python wrapper for the Zendesk API
+  package_url: https://pypi.org/project/zenpy
+  version: 2.0.25
+  license: GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_integrations/requirements.txt
+  detection_source: mage_integrations/requirements.txt
+  last_updated_by: DANGerous
+  last_updated_on: 2023-01-12 11:06:15.000000000 Z
+- name: "@storybook/addon-actions"
+  description: Action Logger addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-actions
+  version: 6.5.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16126/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: "@storybook/addon-links"
+  description: Story Links addon for storybook
+  package_url: https://www.npmjs.com/@storybook/addon-links
+  version: 6.5.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16204/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: "@storybook/react"
+  description: 'Storybook for React: Develop React Component in isolation with Hot
+    Reloading'
+  package_url: https://www.npmjs.com/@storybook/react
+  version: 6.5.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16042/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.11.15
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.26
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.46.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.46.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 12.1.6
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2022-07-07 00:14:12.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2022-06-28 19:07:18.000000000 Z
+- name: jwt-decode
+  description: Decode JWT tokens, mostly useful for browser applications
+  package_url: https://www.npmjs.com/jwt-decode
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-03 18:44:56.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: Johnson Kwok
+  last_updated_on: 2022-12-15 02:49:55.000000000 Z
+- name: react-copy-to-clipboard
+  description: Copy-to-clipboard React component
+  package_url: https://www.npmjs.com/react-copy-to-clipboard
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-dropzone
+  description: Simple HTML5 drag-drop zone with React.js
+  package_url: https://www.npmjs.com/react-dropzone
+  version: 14.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16979/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-markdown
+  description: Renders Markdown as React components
+  package_url: https://www.npmjs.com/react-markdown
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-spring
+  description: Cross-platform animation engine for React
+  package_url: https://www.npmjs.com/react-spring
+  version: 9.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17658/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-syntax-highlighter
+  description: Syntax highlighting component for react with prismjs or highlightjs
+    ast using inline styles
+  package_url: https://www.npmjs.com/react-syntax-highlighter
+  version: 13.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17323/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-table
+  description: Hooks for building lightweight
+  package_url: https://www.npmjs.com/react-table
+  version: 7.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17860/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: react-transition-group
+  description: A react component toolset for managing animations
+  package_url: https://www.npmjs.com/react-transition-group
+  version: 4.4.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16380/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2023-02-05 23:03:52.000000000 Z
+- name: styled-system
+  description: Responsive
+  package_url: https://www.npmjs.com/styled-system
+  version: 5.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17321/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: nathaniel-mage
+  last_updated_on: 2022-05-21 01:01:44.000000000 Z
+- name: tsconfig-paths-webpack-plugin
+  description: Load modules according to tsconfig paths in webpack
+  package_url: https://www.npmjs.com/tsconfig-paths-webpack-plugin
+  version: 3.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17311/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/ramzimalhas/mage-ai/blob/master/mage_ai/frontend/yarn.lock
+  detection_source: mage_ai/frontend/package.json
+  last_updated_by: DANGerous
+  last_updated_on: 2022-06-27 20:32:33.000000000 Z
