@@ -14,19 +14,25 @@ mysql-connector-python==8.0.31
 pendulum==1.2.0
 psycopg2==2.9.3
 psycopg2-binary==2.9.3
-pyarrow==10.0.1
-pymongo==4.3.3
+pyarrow==14.0.1
+pymongo==4.6.3
 pymongo_schema==0.4.1
 pymssql~=2.2.7
 python-dateutil==2.8.2
 redshift-connector==2.0.909
-requests==2.27.1
+requests==2.32.2
 requests_mock==1.10.0
 simplejson==3.11.1
-snowflake-connector-python==2.9.0
+snowflake-connector-python==3.0.2
 sshtunnel==0.4.0
 stripe==4.2.0
 trino==0.321.0
 tzlocal==4.2
 xmltodict==0.13.0
 zenpy==2.0.25
+aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
